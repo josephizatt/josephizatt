@@ -1,24 +1,7 @@
-# React Bricks starter with Next.js with Tailwind CSS and React Bricks UI
+## Joseph Izatt - Web3 Developer
 
-Kick-start your project with this boilerplate for a complete Next.js website based on [React Bricks](https://reactbricks.com), with both the front-end and admin dashboard.
+Hello, I'm Joseph Izatt and I'm a web3 developer. I specialize in building decentralized applications (dApps) using blockchain technology. I have a strong passion for the potential of decentralized systems to transform the way we interact and exchange value on the internet.
 
-## 🚀 Quick start
+You can find me on Twitter at @josephizatt, where I share my thoughts and experiences as a web3 developer. I am always eager to connect with others who are passionate about blockchain technology and decentralized systems.
 
-We suggest that you use the CLI and choose this starter.  
-In this way you will have the credentials already set up in a `.env.local` file:
-
-```bash
-npx create-reactbricks-app
-# or
-yarn create reactbricks-app
-```
-
-Otherwise you can directly clone this repo:
-
-```bash
-git clone https://github.com/reactbricks/nextjs-starter-reactbricks-tailwind your-project
-```
-
-## 📖 Documentation
-
-Please, read our documentation at [Reactbricks.com](https://reactbricks.com).
+Feel free to check out my projects and contributions on GitHub to get an idea of the work I've been doing in the web3 space. If you have any questions or would like to collaborate on a project, don't hesitate to reach out!
