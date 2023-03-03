@@ -162,27 +162,27 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
+        "I thought it was impossible to make a website as beautiful as our product, but Joe proved me wrong.",
+      name: "Oscar Moyes",
+      designation: "Owner",
+      company: "XNet",
+      image: "https://main--frabjous-pasca-53371a.netlify.app/_next/image?url=%2Fxnet-logo.png&w=1920&q=75",
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
+        "I've never met a web developer who truly cares about their clients' success like Joe does.",
+      name: "Tom Goddard",
+      designation: "MD",
+      company: "WeAG",
+      image: "https://cms.weaccelerategrowth.com/sites/default/files/2019-01/Tom.jpeg",
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "After Joe optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      name: "Conner King",
+      designation: "Marketing Manager",
+      company: "Avado",
+      image: "https://media.licdn.com/dms/image/C4E03AQGHUvDq_wtG1Q/profile-displayphoto-shrink_800_800/0/1542367489567?e=2147483647&v=beta&t=sJFdmEve35tCpXV530HFkw0FzEHMtkF0msg98iGOPjU",
     },
   ];
   
