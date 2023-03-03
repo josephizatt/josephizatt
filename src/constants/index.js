@@ -163,7 +163,7 @@ import {
     {
       testimonial:
         "I thought it was impossible to make a website as beautiful as our product, but Joe proved me wrong.",
-      name: "Oscar Moyes",
+      name: "Oscar Seyo",
       designation: "Owner",
       company: "XNet",
       image: "https://main--frabjous-pasca-53371a.netlify.app/_next/image?url=%2Fxnet-logo.png&w=1920&q=75",
